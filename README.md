@@ -1,4 +1,4 @@
-![the-starry-night-painting-by-vincent-van-gogh-uhd-4k-wallpaper](https://github.com/atharvmalve/atharvmalve/assets/146522288/f8d81919-ee59-42f4-b9ce-76990522472f)
+![LionwithCypresses_Mac](https://github.com/atharvmalve/atharvmalve/assets/146522288/b6c58f6d-09b8-474c-8d2a-0d906a7cadc1)
 
 
 # About Me 👨‍💻
