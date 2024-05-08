@@ -1,4 +1,6 @@
-![LionwithCypresses_Mac](https://github.com/atharvmalve/atharvmalve/assets/146522288/b6c58f6d-09b8-474c-8d2a-0d906a7cadc1)
+![photo_2024-05-08_14-48-41](https://github.com/atharvmalve/atharvmalve/assets/146522288/6fe9ca2f-abbf-4323-91b0-137b2fbf341c)
+
+
 
 
 # About Me 👨‍💻
@@ -25,7 +27,8 @@ I'm currently diving deeper into React.js to enhance my frontend development ski
 
 ## 📫 Get in Touch
 
-If you'd like to connect or have any questions, feel free to reach out to me:
+If you'd like to connect or have any questions, feel free to reach out to me:![photo_2024-05-08_14-39-22]
+
 
 - Email: atharvmalve.dev@gmail.com
 - LinkedIn: [AtharvMalve](https://linkedin.com/in/atharvmalve)
