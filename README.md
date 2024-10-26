@@ -1,37 +1,35 @@
-![photo_2024-05-08_14-48-41](https://github.com/atharvmalve/atharvmalve/assets/146522288/6fe9ca2f-abbf-4323-91b0-137b2fbf341c)
+ ![Group 26](https://github.com/user-attachments/assets/79535cd1-7c93-42af-8f71-b4546e70ee3c)
 
+<div align="center">
 
+  <h1>Atharv Malve (Dev Vinci)</h1>
+  <p>Full-Stack Developer | Computer Science Sophomore</p>
+  <p>
+    <a href="https://github.com/atharvmalve" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" alt="GitHub"  width="40" height="40">
+    </a>
+    <a href="https://twitter.com/devvincii" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF" alt="Twitter" width="40" height="40">
+    </a>
+    <a href="https://www.linkedin.com/in/atharvmalve" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" alt="LinkedIn" width="40" height="40">
+    </a>
+  </p>
+</div>
 
+## About Me
+I'm a passionate full-stack developer with a strong focus on UI/UX design and web development. I'm always eager to learn new technologies and explore the exciting world of open-source.
 
-# About Me 👨‍💻
+## Skills
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js
+* **Database:** SQL, MongoDB
+* **Tools:** Git, VS Code, Figma
 
-Hi there! I'm Atharv, an aspiring frontend developer with a passion for creating stunning user interfaces and engaging web experiences.
+## Interests
+* Open-Source
+* AI/ML
+* Competitive Coding
 
-## 🚀 My Journey
-
-I've embarked on a journey into the exciting world of web development, mastering the following technologies:
-
-- HTML
-- CSS
-- JavaScript
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- Express (Basics)
-- Node.js
-
-Feel free to hover over the technologies above to learn more about them!
-
-## 🌱 Currently Learning
-
-I'm currently diving deeper into React.js to enhance my frontend development skills. Additionally, I'm aspiring to become a full-stack developer, exploring the realms of backend development with Node.js and Express.js.
-
-## 📫 Get in Touch
-
-If you'd like to connect or have any questions, feel free to reach out to me:![photo_2024-05-08_14-39-22]
-
-
-- Email: atharvmalve.dev@gmail.com
-- LinkedIn: [AtharvMalve](https://linkedin.com/in/atharvmalve)
-- Twitter: [@WebDevAtharv](https://twitter.com/WebDevAtharv)
-
-Let's build amazing things together! 💻✨
+## Let's Connect
+Feel free to reach out if you have any questions or want to collaborate on a project!
