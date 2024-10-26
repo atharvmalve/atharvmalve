@@ -42,17 +42,25 @@ I'm Full-stack developer passionate about crafting elegant user interfaces and b
 </p>
 
 ## Statistics
-<div align="center">
-  <a href="https://github.com/atharvmalve">
-    <img src="https://github-readme-stats.vercel.app/api?username=atharvmalve&show_icons=true&theme=dark" alt="Atharv Malve's Stats" />
-  </a>
-  <a href="https://github.com/atharvmalve">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvmalve&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmalve&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<table align="center">
+ <tr>
+  <td>
+    <a href="https://github.com/atharvmalve">
+      <img src="https://github-readme-stats.vercel.app/api?username=atharvmalve&show_icons=true&theme=dark" alt="Atharv Malve's Stats" />
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/atharvmalve">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvmalve&theme=dark" alt="GitHub Streak" />
+    </a>
+  </td>
+<!--   <td>
+    <a href="https://github.com/atharvmalve">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmalve&layout=compact&theme=dark" alt="Top Languages" />
+    </a>
+  </td> -->
+ </tr>
+</table>
 
 ## Interests
 * Open-Source
